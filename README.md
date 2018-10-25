@@ -1,5 +1,3 @@
-# eatup!
-
 Welcome to eatup!
 
 We are the service that brings [meetup.com](https://meetup.com) organizers and restaurants together.
