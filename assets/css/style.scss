@@ -8,6 +8,19 @@ header {
     border-bottom: solid 1px #5b6879;
 }
 
+header h2 {
+    color: #ab8510;
+}
+
 a {
    color: darkslategray;
+}
+
+blockquote {
+    padding: 0 20px 0 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-left: 10px solid #ab8510;
+    border-right: 10px solid #ab8510;
 }
