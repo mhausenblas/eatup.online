@@ -3,7 +3,11 @@
 
 @import "{{ site.theme }}";
 
+header {
+    background-color: darkslategray;
+    border-bottom: solid 1px #5b6879;
+}
 
 a {
-   color: #2f6de1;
+   color: darkslategray;
 }
